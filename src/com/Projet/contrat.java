@@ -26,7 +26,7 @@ public class contrat {
 	    }
 
 	    public int getVendeur() {
-	        return vendeur ;
+	        return vendeur;
 	    } 
 	    
 	 
